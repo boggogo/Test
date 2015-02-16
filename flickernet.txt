@@ -1,0 +1,38 @@
+17,0
+X-Man,6
+S,Aberdeen Finals,0,false
+M,Avatar,3,true,15
+M,Tron,1,false,18
+M,Avatar,3,true,15
+S,Bulgaria Greats,20,true
+B,Alf,14,true,5
+Mariya,1
+M,The notebook,3,false,14
+Bon,0
+alison,0
+Rado,1
+M,Tron,1,false,18
+Zina,1
+M,Tron,1,false,18
+Sonq,1
+M,Tron,1,false,18
+Peter,1
+M,Tron,1,false,18
+Katrina,1
+M,Tron,1,false,18
+Harry,1
+M,Tron,1,false,18
+atanas,1
+M,Tron,1,false,18
+Nasko,1
+M,Tron,1,false,18
+Deen,1
+M,Tron,1,false,18
+Moni,1
+M,Tron,1,false,18
+Badas,1
+M,Tron,1,false,18
+Qeen,1
+M,Tron,1,false,18
+Jake,1
+M,Tron,1,false,18
